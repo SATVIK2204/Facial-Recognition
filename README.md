@@ -1,5 +1,5 @@
 # Facial Recognition
-This repository is the project to deect faces in a video stream through webcam.KNN is used as the classifier.
+This repository is the project to detect faces in a video stream through webcam.KNN is used as the classifier.
 
 # Files
 
